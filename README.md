@@ -1,5 +1,3 @@
 # WpCustomFormPlugin
-
-custom formos pluginas wordpress plaformai
-
+custom formos pluginas wordpress platformai
 writen by badfoxer
