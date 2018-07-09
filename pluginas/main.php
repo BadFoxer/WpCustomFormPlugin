@@ -9,7 +9,7 @@ $content = "<form method=post action=''>
                 <label>Vardas</label></br>
                 <input type=text name=user value='' style=width: 80%;>
                 </br></br>
-                <label>žinutė</label>
+                <label>Žinutė</label>
                 </br>
                 <textarea name=cont value='' style=width: 80%; height: 250px;resize: none;></textarea>
                 </br></br>
